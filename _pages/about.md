@@ -26,3 +26,5 @@ Contact me
 ======
 
 If you are working on similar topics or are interested in my work, you can reach out to me. (riccardo.omenti2@unibo.it)
+
+You can follow me on [**twitter**](https://twitter.com/OmentiRiccardo)
