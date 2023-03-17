@@ -15,7 +15,7 @@ Welcome to my page!
 I am a PhD student in Statistics at the University of Bologna.
 
 My research fields are Formal Demography, Historical Demography and Digital Demography.
-![](http://romenti.github.io/images/profile_image.jpeg)
+![](http://romenti.github.io/images/profile_image.jpg)
 
 Getting started
 ======
