@@ -22,3 +22,7 @@ My PhD dissertation aims at shedding light on the potential of online digital da
 I am a strong advocate of performing demographic research in an interdisciplinary context. 
 
 
+Contact me
+======
+
+If you are working on similar topics or are interested in my work, you can reach out to me. (riccardo.omenti2@unibo.it)
