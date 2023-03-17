@@ -12,10 +12,17 @@ redirect_from:
 Welcome to my page!
 ======
 
-I am a Statistics PhD student at the University of Bologna. I am involved in the research project [**GENPOP**](http://genpop.org) (Genes, genealogies and the evolution of demographic change and social inequality)
+I am a Statistics PhD student at the University of Bologna. I am currently involved in the research project [**GENPOP**](http://genpop.org) (Genes, genealogies and the evolution of demographic change and social inequality) funded by the European Research Council. 
+
+I am a Statistician with an interest in Formal Demography, Kinship Dynamics, Digital Demography and intergenerational processes.
+
+My PhD dissertation aims at shedding light on the potential of online digital data to examine the evolution of fertility and of kinship networks in Europe and North America from the eighteenth century up to today.
 
 
-My research fields are Formal Demography for Indirect Fertility Estimation and Kinship Models, Historical Demography and Digital Demography.
+I am a strong advocate of performing demographic research in an interdisciplinary context. 
+
+
+
 ![](http://romenti.github.io/images/profile_image.jpg)
 
 Getting started
