@@ -19,7 +19,7 @@ I am a Statistician with an interest in Formal Demography, Kinship Dynamics, Dig
 My PhD dissertation aims at shedding light on the potential of online digital data to examine the evolution of fertility and of kinship networks in Europe and North America from the eighteenth century up to today.
 
 
-I am a strong advocate of performing demographic research in an interdisciplinary context. 
+I am a strong advocate of promoting demographic research across multiple disciplines. 
 
 I am also very passionate about teaching. I believe it is vital to foster enthusiasm in understanding and using Statistics to answer key societal questions.
 
