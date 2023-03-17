@@ -36,16 +36,16 @@ Work experience
 Teaching experience
 ====
 
-2021-2023: TA for the course Biostatistics
+* 2021-2023: TA for the course Biostatistics
 
         * BA in Statics
         * Department of Statistical Sciences, University of Bologna
 
-2022: TA for Summer School in Computational Social Sciences 2022 (SICSS 2022)
+* 2022: TA for Summer School in Computational Social Sciences 2022 (SICSS 2022)
 
        * Department of Political and Social Sciences, University of Bologna
   
-2022: TA for the course Longitudinal and Time-to-Event Data Analysis class
+* 2022: TA for the course Longitudinal and Time-to-Event Data Analysis class
 
        * MSc in Statistics
        * Department of Statistical Sciences, University of Bologna
