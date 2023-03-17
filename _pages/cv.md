@@ -37,7 +37,7 @@ Teaching experience
 ====
 
 * 2021-2023: TA for the course Biostatistics
-    * BA in Statics
+    * BA in Statistics
     * Department of Statistical Sciences, University of Bologna
 
 * 2022: TA for Summer School in Computational Social Sciences 2022 (SICSS 2022)
