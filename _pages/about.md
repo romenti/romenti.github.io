@@ -23,11 +23,11 @@ I am a strong advocate of promoting demographic research across multiple discipl
 
 I am also very passionate about teaching. I believe it is vital to foster enthusiasm in understanding and using Statistics to answer key societal questions.
 
-I strongly encourage to spread awareness, in Academia and anywhere else, on:
+I strongly encourage to spread awareness on:
 
 - gender equality & women in science;
-- LGBTQAI+ rights;
-- mental health support for researchers, post- and under- graduate.
+- mental health support for researchers;
+- LGBTQAI+ rights.
 
 
 Contact me
