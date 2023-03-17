@@ -23,7 +23,6 @@ I am a strong advocate of performing demographic research in an interdisciplinar
 
 
 
-![](http://romenti.github.io/images/profile_image.jpg)
 
 Getting started
 ======
