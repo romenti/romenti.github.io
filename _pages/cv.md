@@ -7,7 +7,11 @@ redirect_from:
   - /resume
 ---
 
+[See my extended CV here](https://romenti.github.io/files/RiccardoOmenti_CV.pdf) 
+
+
 {% include base_path %}
+
 
 Education
 ======
