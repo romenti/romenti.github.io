@@ -6,10 +6,8 @@ author_profile: true
 Research
 =====
 
-# <span style="color:#52adc8"> Research topics </span>
-
-
-* Online genealogical data in Demographic Research
+* Online genealogical data for the examination of Demographic Change
 * Intergenerational processes
 * Kinship Demography
 * Indirect methods for fertility estimation
+
