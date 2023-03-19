@@ -10,7 +10,7 @@ author_profile: true
    * Activities: in-class teaching, exam grading, tutorial sessions     
    
    
-**Summer School in Computational Social Sci- ences 2022 (SICSS 2022)**  (Graduate level)
+**Summer School in Computational Social Sciences 2022 (SICSS 2022)**  (Graduate level)
    * Department of Political and Social Sciences, University of Bologna 
    * Role: Teaching Assistant 
    * Activities: tutorial sessions, organizational support
