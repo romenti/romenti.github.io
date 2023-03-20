@@ -16,13 +16,13 @@ redirect_from:
 Education
 ======
 * PhD student in Statistics, University of Bologna, 2024 (expected)
-* MSc in Statistics (curriculum: Life Statistics), University of Bologna, 2019-2021
+* MSc in Statistics, University of Bologna, 2019-2021
      * Major: Life Statistics
      * Thesis: "A retrospective cohort study on the railroad carriages repair workers at the major revision workshop (OGR) of Bologna"
      * Supervisor: prof. Rossella Miglio 
      * Co-supervisor: Dr. Daniela Cervino
      * Final grade: 110/110 cum laude
-* BA in Statistics (curriculum: Stats & Maths), University of Bologna, 2016-2019
+* BA in Statistics, University of Bologna, 2016-2019
      * Major: Stats & Maths
      * Thesis: "Lasso techniques in predictive financial regression"
      * Supervisor: prof. Iliyan Georgiev
