@@ -21,12 +21,13 @@ My PhD dissertation aims at shedding light on the potential of online digital da
 
 I am a strong advocate of promoting demographic research across multiple disciplines. 
 
-I am also very passionate about teaching. I believe it is vital to foster enthusiasm in understanding and using Statistics to answer key societal questions.
+I am also very passionate about teaching. I believe it is vital to foster enthusiasm in understanding and using Statistics and Demography to answer key societal questions.
 
 I strongly encourage to spread awareness on:
 
 - gender equality & women in science;
 - mental health support for researchers;
+- environmental issues;
 - LGBTQAI+ rights.
 
 
