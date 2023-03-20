@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /research/
+permalink: /talks/
 author_profile: true
 ---
 Talks
