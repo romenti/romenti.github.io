@@ -16,7 +16,7 @@ I am a Statistics PhD student at the University of Bologna. I am currently invol
 
 I am a Statistician with an interest in Formal Demography, Kinship Dynamics, Digital Demography and intergenerational processes.
 
-My PhD dissertation aims at shedding light on the potential of online digital data to examine the evolution of fertility and of kinship networks in Europe and North America from the eighteenth century up to today.
+My PhD dissertation aims to shed light on the potential of online digital data to examine the evolution of fertility and of kinship networks in Europe and North America from the eighteenth century up to today.
 
 
 I am a strong advocate of promoting demographic research across multiple disciplines. 
