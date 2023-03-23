@@ -14,6 +14,8 @@ Welcome to my page!
 
 I am a Statistics PhD student at the University of Bologna. I am currently involved in the research project [**GENPOP**](http://genpop.org) (Genes, genealogies and the evolution of demographic change and social inequality) funded by the European Research Council. 
 
+I have been a visiting scholar at the Research Laboratory on [**Kinship Inequalities**](https://www.demogr.mpg.de/en/research_6120/independent_research_groups_11668/kinship_inequalities_10703/team/) at the Max Planck Institute for Demographic Research
+
 I am a Statistician with an interest in Formal Demography, Kinship Dynamics, Digital Demography and intergenerational processes.
 
 My PhD dissertation aims to shed light on the potential of online digital data to examine the evolution of fertility and of kinship networks in Europe and North America from the eighteenth century up to today.
