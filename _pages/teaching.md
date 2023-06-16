@@ -5,10 +5,9 @@ author_profile: true
 ---
 
 **Basic Course in R for Historical Demography** 
-
-    * Italian Society of Historical Demography ([SIDeS](https://demostorica.it/en/society/))
-    * Role: Instructor
-    * Activities: one lecture about R programming and mantainance of the course website ([link](https://github.com/romenti/RHistDemo/tree/main))
+   * Italian Society of Historical Demography ([SIDeS](https://demostorica.it/en/society/))
+   * Role: Instructor
+   * Activities: one lecture about R programming and mantainance of the course website ([link](https://github.com/romenti/RHistDemo/tree/main))
 
 **Biostatistics (Spring 2021,2022,2023)** (Undergraduate level) [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/403290)
    * Department of Statistical Sciences, University of Bologna
