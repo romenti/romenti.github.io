@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 **Basic Course in R for Historical Demography** 
+
     * Italian Society of Historical Demography ([SIDeS](https://demostorica.it/en/society/))
     * Role: Instructor
     * Activities: one lecture about R programming and mantainance of the course website ([link](https://github.com/romenti/RHistDemo/tree/main))
