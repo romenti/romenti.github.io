@@ -7,8 +7,8 @@ Talks
 =====
 
 
-"Leveraging online crowdsourced genealogical data to measure fertility in Europe and North America during the First Demographic Transition" BSPS Conference 2023, 11 September 2023. (Keele University, UK) - [Here to access for more information](https://www.lse.ac.uk/international-development/research/british-society-for-population-studies/Assets/Posters-abstracts5.pdf)
-Slides
+"Leveraging online crowdsourced genealogical data to measure fertility in Europe and North America during the First Demographic Transition" BSPS Conference 2023, 11 September 2023. (Keele University, UK) - [Here to access for more information](https://www.lse.ac.uk/international-development/research/british-society-for-population-studies/Assets/Historical-abstracts.pdf)
+[Slides](https://github.com/romenti/romenti.github.io/blob/master/files/RiccardoOmenti_BSPS_presentation.pdf)
 
 
 
@@ -29,5 +29,6 @@ Summer School in Historical Demography (online), 7 October 2022 - [Here to acces
 Posters
 ======
 
+"Quality assessment of online genealogical data for demographic research: The case of FamiLinx" BSPS Conference 2023, 11 September 2023. (Keele University, UK) - [Here to access for more information](https://www.lse.ac.uk/international-development/research/british-society-for-population-studies/Assets/Posters-abstracts5.pdf)
 
 
