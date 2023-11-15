@@ -6,7 +6,7 @@ author_profile: true
 Research Projects
 =====
 
-**A Bayesian Model to Estimate Male and Female Fertility Patterns at a Subnational Level** (with [Monica Alexander](https://www.monicaalexander.com))
+**A Bayesian Model to Estimate Male and Female Fertility Patterns at a Subnational Level** (with [Monica Alexander](https://www.monicaalexander.com))[[Abstract](https://github.com/romenti/romenti.github.io/blob/master/files/RiccardoOmenti_Bayesian_Genealogies.pdf)]
 
 **Development of Bayesian and Formal Demography approaches to unveil historical fertility patterns using online genealogical data** (with [Monica Alexander](https://www.monicaalexander.com) & [Nicola Barban](http://nicolabarban.com))
 
