@@ -7,7 +7,7 @@ Talks
 =====
 
 "Leveraging online crowdsourced genealogical data to measure fertility in Europe and North America during the First Demographic Transition"  Quetelet Seminar 2023, 9 November 2023. (UCLouvain) - [Here to access for more information](https://uclouvain.be/fr/instituts-recherche/iacchos/demo/chaire-quetelet-2023.html)
-[Slides]()
+[Slides](https://github.com/romenti/romenti.github.io/blob/master/files/RiccardoOmenti_Presentation_Queletet.pdf)
 
 
 "Leveraging online crowdsourced genealogical data to measure fertility in Europe and North America during the First Demographic Transition" BSPS Conference 2023, 11 September 2023. (Keele University, UK) - [Here to access for more information](https://www.lse.ac.uk/international-development/research/british-society-for-population-studies/Assets/Historical-abstracts.pdf)
