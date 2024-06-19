@@ -6,6 +6,9 @@ author_profile: true
 Talks
 =====
 
+"A Bayesian Model to Estimate Male and Female Fertility Patterns at a Subnational Level" European Population Conference 2024, 13 June 2024. (Edinburgh, UK) -  [Here to access for more information](https://epc2024.eaps.nl/abstracts/240918)
+[Slides](https://github.com/romenti/romenti.github.io/blob/master/files/RiccardoOmenti_PAA_presentation_2024.pdf)
+
 "Development of Bayesian and Formal Demography Approaches to Unveil Historical Fertility Patterns Using Online Genealogical Data" Population Association of America 2024, 19 April 2024. (Ohio, Columbus, US) - [Here to access for more information](https://submissions.mirasmart.com/PAA2024/Itinerary/PresentationDetail.aspx?evdid=129)
 [Slides](https://github.com/romenti/romenti.github.io/blob/master/files/RiccardoOmenti_PAA_presentation_2024.pdf)
 
