@@ -6,6 +6,9 @@ author_profile: true
 Talks
 =====
 
+"Development of Bayesian and Formal Demography Approaches to Unveil Historical Fertility Patterns Using Online Genealogical Data" Population Association of America 2024, 19 April 2024. (Ohio, Columbus, US) - [Here to access for more information](https://submissions.mirasmart.com/PAA2024/Itinerary/PresentationDetail.aspx?evdid=129)
+[Slides]()
+
 "Leveraging online crowdsourced genealogical data to measure fertility in Europe and North America during the First Demographic Transition"  Quetelet Seminar 2023, 9 November 2023. (UCLouvain) - [Here to access for more information](https://uclouvain.be/fr/instituts-recherche/iacchos/demo/chaire-quetelet-2023.html)
 [Slides](https://github.com/romenti/romenti.github.io/blob/master/files/RiccardoOmenti_Presentation_Queletet.pdf)
 
