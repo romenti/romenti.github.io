@@ -3,14 +3,24 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-Research Projects
+Peer-reviewed Publications
 =====
 
-**A Bayesian Model to Estimate Male and Female Fertility Patterns at a Subnational Level** (with [Monica Alexander](https://www.monicaalexander.com))[[Abstract](https://github.com/romenti/romenti.github.io/blob/master/files/RiccardoOmenti_MaleFertility.pdf)]
+Colasurdo, A., and, **Omenti**, R. (2024). "Are Online Genealogical Data Suitable for Demographic Research? Evidence from FamiLinx" Demographic Research (in press)
 
-**Development of Bayesian and Formal Demography approaches to unveil historical fertility patterns using online genealogical data** (with [Monica Alexander](https://www.monicaalexander.com) & [Nicola Barban](http://nicolabarban.com))[[Abstract](https://github.com/romenti/romenti.github.io/blob/master/files/RiccardoOmenti_Bayesian_Genealogies.pdf)]
 
-**Are Online Genealogical Data Suitable for Demographic Research? Evidence from FamiLinx** (with [Andrea Colasurdo](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/andrea_colasurdo_4275))[[Abstract](https://github.com/romenti/romenti.github.io/blob/master/files/ColasurdoOmenti_Genealogies.pdf)]][[Draft](https://osf.io/preprints/socarxiv/62yxm)]
+Papers Under Review 
+=====
+
+"The Effects of Mortality Shocks on the Lee-Carter Models’ Variability Predictions" (with [Francesco Scalone](https://www.unibo.it/sitoweb/francesco.scalone) and [Nadia Barbieri](https://www.unibo.it/sitoweb/nadia.barbieri2))
+
+Working Papers
+=====
+"Bayesian Indirect Estimation of Historical Fertility in Europe and US using Online Genealogical Data" (with [Monica Alexander](https://www.monicaalexander.com) and [Nicola Barban](http://nicolabarban.com))
+
+"A Bayesian Model to Estimate Male and Female Fertility Patterns at a Subnational Level" (with [Monica Alexander](https://www.monicaalexander.com) and [Nicola Barban](http://nicolabarban.com))
+
+"Violence and Adolescent Fertility: a Global Analysis" (with [Orsola Torrisi](https://www.orsolatorrisi.com) and [Selin Köksal](https://www.lshtm.ac.uk/aboutus/people/koksal.selin))
 
 
 
