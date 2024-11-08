@@ -7,7 +7,7 @@ Talks
 =====
 
 "A Bayesian Model to Estimate Male and Female Fertility Patterns at a Subnational Level" British Society for Population Studies Conference 2024, 11 September 2024. (Bath, UK) -  [Here to access for more information](https://www.lse.ac.uk/international-development/research/british-society-for-population-studies/annual-conference)
-[Slides]()
+[Slides](https://github.com/romenti/romenti.github.io/blob/master/files/RiccardoOmenti_BSPS_presentation.pdf)
 
 "A Bayesian Model to Estimate Male and Female Fertility Patterns at a Subnational Level" European Population Conference 2024, 13 June 2024. (Edinburgh, UK) -  [Here to access for more information](https://epc2024.eaps.nl/abstracts/240918)
 [Slides](https://github.com/romenti/romenti.github.io/blob/master/files/RiccardoOmenti_EPC_presentation_2024.pdf)
@@ -41,7 +41,7 @@ Posters
 "Using online genealogical data for demographic research: an empirical examination of the FamiLinx database" Population Association of America 2024, 19 April 2024. [Here to access for more information](https://submissions.mirasmart.com/PAA2024/Itinerary/EventDetail.aspx?evt=267)
 [Poster](https://github.com/romenti/romenti.github.io/blob/master/files/Poster_PAA_2024.pdf)
 
-"Development of Bayesian and Formal Demography Approaches to Unveil Historical Fertility Patterns Using Online Genealogical Data" Young Demographers, 7 February 2024. (Prague, Czech Republic) [Here to access for more information](https://docs.google.com/document/u/1/d/e/2PACX-1vRtIZqjerrRXeGDkniVXepCo8g-OR8LjcImrGV0oHZ5dhYuyvEbTzhZvVxuyMFDS10n_74IvQh2auBe/pub)[Poster](https://github.com/romenti/romenti.github.io/blob/master/files/poster_young_demographers_2024.pdf)
+"Development of Bayesian and Formal Demography Approaches to Unveil Historical Fertility Patterns Using Online Genealogical Data" Young Demographers, 7 February 2024. (Prague, Czech Republic) [Here to access for more information](https://docs.google.com/document/u/1/d/e/2PACX-1vRtIZqjerrRXeGDkniVXepCo8g-OR8LjcImrGV0oHZ5dhYuyvEbTzhZvVxuyMFDS10n_74IvQh2auBe/pub)  [Poster](https://github.com/romenti/romenti.github.io/blob/master/files/poster_young_demographers_2024.pdf)
 
 "Quality assessment of online genealogical data for demographic research: The case of FamiLinx" BSPS Conference 2023, 11 September 2023. (Keele University, UK) - [Here to access for more information](https://www.lse.ac.uk/international-development/research/british-society-for-population-studies/Assets/Posters-abstracts5.pdf)
 
