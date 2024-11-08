@@ -8,6 +8,11 @@ Peer-reviewed Publications
 
 Colasurdo, A., and, **Omenti**, R. (2024). "Are Online Genealogical Data Suitable for Demographic Research? Evidence from FamiLinx" Demographic Research (in press)
 
+Peer-reviewed Contributed Volumes
+=====
+
+Omenti, R. (2024). “Un futuro senza piu` figli,” Chapter 4 in Fantascienza e demografia, pp. 34-36, edited by A. Fornasin, and F. Scalone, Firenze, Neodemos. [link](https://www.neodemos.info/wp-content/uploads/2024/03/E-book_demografia-e-fantascienza.pdf)
+
 
 Papers Under Review 
 =====
