@@ -6,6 +6,9 @@ author_profile: true
 Talks
 =====
 
+"A Bayesian Model to Estimate Male and Female Fertility Patterns at a Subnational Level" British Society for Population Studies Conference 2024, 11 September 2024. (Bath, UK) -  [Here to access for more information](https://www.lse.ac.uk/international-development/research/british-society-for-population-studies/annual-conference)
+[Slides]()
+
 "A Bayesian Model to Estimate Male and Female Fertility Patterns at a Subnational Level" European Population Conference 2024, 13 June 2024. (Edinburgh, UK) -  [Here to access for more information](https://epc2024.eaps.nl/abstracts/240918)
 [Slides](https://github.com/romenti/romenti.github.io/blob/master/files/RiccardoOmenti_EPC_presentation_2024.pdf)
 
