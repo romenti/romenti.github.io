@@ -40,7 +40,7 @@ Posters
 
 "A Bayesian Model to Estimate Male and Female Fertility Patterns at a Subnational Level" 
 International Society for Bayesian Analysis, 1-7 July 2024. (Venice, Italy) -  [Here to access for more information](https://www.unive.it/web/en/2208/home)
-[Poster]()
+[Poster](https://github.com/romenti/romenti.github.io/blob/master/files/Poster_ISBA_RiccardoOmenti.pdf)
 
 
 "Using online genealogical data for demographic research: an empirical examination of the FamiLinx database" Population Association of America 2024, 19 April 2024. (Ohio, Columbus, US) [Here to access for more information](https://submissions.mirasmart.com/PAA2024/Itinerary/EventDetail.aspx?evt=267)
