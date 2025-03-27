@@ -6,7 +6,7 @@ author_profile: true
 Peer-reviewed Publications
 =====
 
-Colasurdo, A., and, **Omenti**, R. (2024). "Are Online Genealogical Data Suitable for Demographic Research? Evidence from FamiLinx" Demographic Research (in press)
+Colasurdo, A., and, **Omenti**, R. (2024). "Are Online Genealogical Data Suitable for Demographic Research? Evidence from FamiLinx" Demographic Research, 51(41): 1299–1350.
 
 Peer-reviewed Contributed Volumes
 =====
