@@ -20,9 +20,9 @@ My research intersts include:
 
 1. Bayesian demography
 2. Demographic estimation in data-limited contexts
-3. Impact of AI and technology on demographic processes
-4. Male fertility estimation
-5. Fertility behaviors in response to violence
+3. Male fertility estimation
+4. Subnational mortality estimation
+
 
    
 
@@ -36,4 +36,3 @@ Contact me
 
 If you are working on similar topics or are interested in my work, you can reach out to me. (riccardo.omenti2@unibo.it)
 
-You can follow me on [**twitter**](https://twitter.com/OmentiRiccardo).
