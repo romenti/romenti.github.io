@@ -21,7 +21,8 @@ My research intersts include:
 1. Bayesian demography
 2. Demographic estimation in data-limited contexts
 3. Male fertility estimation
-4. Subnational mortality estimation
+4. Impact of Technological Change on Demographic Processes
+5. Subnational mortality estimation
 
 
    
