@@ -4,13 +4,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Big Data in Social Sciences (Fall 2024)** (Undergraduate level) [link](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/468860)
+**Big Data in Social Sciences (Fall 2024, 2025)** (Undergraduate level) [link](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/468860)
    * Department of Statistical Sciences, University of Bologna
    * Role: Teaching Assistant for Prof. Nicola Barban 
    * Activities: tutorial sessions, project evaluation  
 
 
-**Fundamental Concepts of Statistics (Fall 2023,2024)** (Undergraduate level) [link](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/423525)
+**Fundamental Concepts of Statistics (Fall 2023, 2024, 2025)** (Undergraduate level) [link](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/423525)
    * Department of Statistical Sciences, University of Bologna
    * Role: Teaching Assistant for Prof. Cinzia Voroli (2023) and Prof. Maria Pia Victoria Feser  (2024) 
    * Activities: exam grading    
@@ -21,9 +21,9 @@ author_profile: true
    * Role: Instructor
    * Activities: one lecture about R programming and mantainance of the course website ([link](https://github.com/romenti/RHistDemo/tree/main))
 
-**Biostatistics (Spring 2021,2022,2023,2024)** (Undergraduate level) [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/403290)
+**Biostatistics (Spring 2021,2022,2023,2024,2025,2026)** (Undergraduate level) [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/403290)
    * Department of Statistical Sciences, University of Bologna
-   * Role: Teaching Assistant for Prof. Jeanne Jacobine Duistermaat (2021-2023) and Prof. Simone Tiberi (2024) 
+   * Role: Teaching Assistant for Prof. Jeanne Jacobine Duistermaat (2021-2023) and Prof. Simone Tiberi (2024-2026) 
    * Activities: in-class teaching, tutorial sessions     
    
    
