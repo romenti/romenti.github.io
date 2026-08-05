@@ -8,7 +8,86 @@
   <meta name="description" content="Riccardo Omenti's Personal Webpage">
 
   <!-- Fonts and Icons -->
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/main.css">
+<style>
+  :root {
+    --text-color: #1f2937;
+    --heading-color: #16324f;
+    --link-color: #245b85;
+    --link-hover-color: #143d5d;
+    --background-color: #ffffff;
+    --navbar-color: #f5f7f9;
+    --border-color: #d9e0e6;
+  }
+
+  body,
+  button,
+  input,
+  textarea,
+  select {
+    font-family: "Source Sans 3", sans-serif;
+  }
+
+  body {
+    color: var(--text-color);
+    background-color: var(--background-color);
+    font-size: 17px;
+    line-height: 1.65;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .title {
+    color: var(--heading-color);
+    font-family: "Source Sans 3", sans-serif;
+  }
+
+  .title {
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+
+  a {
+    color: var(--link-color);
+  }
+
+  a:hover,
+  a:focus {
+    color: var(--link-hover-color);
+    text-decoration: underline;
+  }
+
+  .navbar {
+    background-color: var(--navbar-color) !important;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .navbar .nav-link {
+    color: var(--heading-color) !important;
+  }
+
+  .navbar .nav-link:hover,
+  .navbar .navbar-active .nav-link {
+    color: var(--link-color) !important;
+  }
+
+  footer {
+    color: #5f6b76;
+    border-top: 1px solid var(--border-color);
+  }
+</style>
+
+
+
+
   
   <!-- CSS Files -->
   <link rel="stylesheet" href="/assets/css/all.min.css">
@@ -118,66 +197,16 @@
         Riccardo Omenti is a research fellow in demography at the Department of Statistical Science of the University of Bologna.
     Riccardo received his Ph.D. in Statistics from the University of Bologna in 2025, with the dissertation "Blank Space: Demographic Estimation in Data-sparse Contexts". 
     <p>
-    His research interests include computational social science, family demography, mortality and artificial intelligence. He is currently working on two major projects. The first examines the impact of socio-demographic factors on occupational exposure to Generative Artificial Intelligence.
+    <p>
+    His research interests include computational social science, family demography, statistical demography, mortality and artificial intelligence. 
+    <p>
+    He is currently working on two major projects. The first examines the impact of socio-demographic factors on occupational exposure to Generative Artificial Intelligence. The second project relies on Bayesian modeling techniques to construct subnational fertility estimates in Italy using digitized census tables by the Italian National Institute of Statistics ISTAT.
     <p>
     </div>
 </div>
 
 
-<!-- News -->
-<div class="news mt-3 p-0">
- 
-  <h1 class="title mb-4 p-0">news</h1>
-    <div class="row p-0">
-      <div class="col-sm-2 p-0">
-        <span class="badge red darken-4 font-weight-bold text-uppercase align-middle date ml-3">
-          Jul 20, 2024
-        </span>
-      </div>
-      <div class="col-sm-10 mt-2 mt-sm-0 ml-3 ml-md-0 p-0 font-weight-light text">
-        <p> 
-        </p>
-      </div>
-    </div>
-  
-   <div class="row p-0">
-      <div class="col-sm-2 p-0">
-        <span class="badge red darken-4 font-weight-bold text-uppercase align-middle date ml-3">
-          Jun 7, 2024
-        </span>
-      </div>
-      <div class="col-sm-10 mt-2 mt-sm-0 ml-3 ml-md-0 p-0 font-weight-light text">
-        <p> 
-        </p>
-      </div>
-    </div>
 
-  <div class="row p-0">
-      <div class="col-sm-2 p-0">
-        <span class="badge red darken-4 font-weight-bold text-uppercase align-middle date ml-3">
-          Jun 4, 2024
-        </span>
-      </div>
-      <div class="col-sm-10 mt-2 mt-sm-0 ml-3 ml-md-0 p-0 font-weight-light text">
-        <p> 
-        </p>
-      </div>
-    </div>
-  
-  <div class="row p-0">
-      <div class="col-sm-2 p-0">
-        <span class="badge red darken-4 font-weight-bold text-uppercase align-middle date ml-3">
-          Dec 29, 2021
-        </span>
-      </div>
-      <div class="col-sm-10 mt-2 mt-sm-0 ml-3 ml-md-0 p-0 font-weight-light text">
-        <p> 
-        </p>
-      </div>
-    </div>
-
-</div>
-</div>
 
   <!-- Footer -->
   <footer>
