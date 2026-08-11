@@ -16,6 +16,144 @@
   <link rel="stylesheet" href="/assets/css/academicons.min.css">
   <link rel="stylesheet" href="/assets/css/main.css">
   <link rel="canonical" href="//">
+
+  <style>
+    /* Uniform publication-page layout */
+    .content {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 2.25rem 1.25rem 3rem;
+    }
+
+    .publication-section {
+      margin-bottom: 3rem;
+    }
+
+    .publication-section > h1,
+    .publication-section > h3 {
+      margin: 0 0 1rem;
+    }
+
+    .publication-year-group {
+      display: flex;
+      flex-direction: row-reverse;
+      border-top: 1px solid #ddd;
+      padding-top: .65rem;
+    }
+
+    .publication-year {
+      flex: 0 0 9%;
+      max-width: 9%;
+      padding-right: .5rem;
+    }
+
+    .publication-year .bibliography-year {
+      margin: 0;
+      line-height: 1.35;
+    }
+
+    .publication-list {
+      flex: 0 0 91%;
+      max-width: 91%;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .publication-item {
+      display: flex;
+      align-items: flex-start;
+      margin: .85rem 0 1.35rem;
+    }
+
+    .publication-badge {
+      flex: 0 0 72px;
+      max-width: 72px;
+      padding-right: .45rem;
+    }
+
+    .publication-badge .badge {
+      display: inline-block;
+      width: 65px;
+      text-align: center;
+    }
+
+    .publication-body {
+      flex: 1 1 auto;
+      min-width: 0;
+      padding-left: 1rem;
+      padding-right: .5rem;
+    }
+
+    .publication-body .title {
+      margin: 0 0 .28rem;
+      line-height: 1.35;
+    }
+
+    .publication-body .author {
+      margin-bottom: .22rem;
+      line-height: 1.5;
+    }
+
+    .publication-body .periodical {
+      margin: 0 0 .35rem;
+      line-height: 1.45;
+    }
+
+    .publication-actions {
+      margin-top: .35rem;
+    }
+
+    .publication-actions .badge {
+      margin-bottom: .25rem;
+    }
+
+    .publication-abstract {
+      margin-top: .65rem;
+    }
+
+    .publication-abstract .abstract {
+      margin: 0;
+      line-height: 1.6;
+    }
+
+    .publication-abstract .abstract p:last-child {
+      margin-bottom: 0;
+    }
+
+    @media (max-width: 767.98px) {
+      .content {
+        padding: 1.5rem 1rem 2.5rem;
+      }
+
+      .publication-year-group {
+        display: block;
+      }
+
+      .publication-year,
+      .publication-list {
+        max-width: 100%;
+        width: 100%;
+      }
+
+      .publication-year {
+        margin-bottom: .4rem;
+      }
+
+      .publication-item {
+        display: block;
+      }
+
+      .publication-badge {
+        max-width: 100%;
+        margin-bottom: .55rem;
+      }
+
+      .publication-body {
+        padding: 0;
+      }
+    }
+  </style>
 </head>
 <body>
   <!-- Header -->
@@ -86,257 +224,190 @@
   </progress>
 
   <!-- Content -->
-  <!-- Content -->
-<div class="content">
+  <div class="content">
 
-  <h1>Working Paper</h1>
-<div class="row m-0 p-0"
-     style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
+    <section class="publication-section" aria-labelledby="working-paper-heading">
+      <h1 id="working-paper-heading">Working Paper</h1>
 
-  <div class="col-sm-1 mt-2 p-0 pr-1">
-    <h3 class="bibliography-year">2026</h3>
-  </div>
+      <div class="publication-year-group">
+        <div class="publication-year">
+          <h3 class="bibliography-year">2026</h3>
+        </div>
 
-  <div class="col-sm-11 p-0">
-    <ol class="bibliography">
+        <ol class="bibliography publication-list">
+          <li class="publication-item">
+            <div class="publication-badge abbr">
+              <span class="badge font-weight-bold blue darken-4 align-middle">WP</span>
+            </div>
 
-      <li>
-        <div class="row m-0 mt-3 p-0">
-
-          <div class="col-sm-1 p-0 abbr">
-            <span class="badge font-weight-bold blue darken-4 align-middle"
-                  style="width: 65px;">
-              WP
-            </span>
-          </div>
-
-          <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
-
-            <div id="romentiWP2026" class="col p-0">
-
-              <h5 class="title mb-0">
-                A Bayesian Model to Estimate Male and Female fertility Patterns at a Subnational Level
+            <div id="romentiWP2026" class="publication-body">
+              <h5 class="title">
+                A Bayesian Model to Estimate Male and Female Fertility Patterns at a Subnational Level
               </h5>
 
               <div class="author">
-                <a href="https://romenti.github.io/" target="_blank">
-                  <nobr><em>Riccardo Omenti</em></nobr>
-                </a>,
+                <a href="https://romenti.github.io/" target="_blank" rel="noopener noreferrer"><em>Riccardo Omenti</em></a>,
                 Monica Alexander, and Nicola Barban.
               </div>
-              </div>
 
-              <div class="col p-0">
-
+              <div class="publication-actions">
                 <a class="badge grey waves-effect font-weight-light mr-1"
                    data-toggle="collapse"
                    href="#romentiWP2026-abstract"
                    role="button"
                    aria-expanded="false"
-                   aria-controls="romentiWP2026-abstract">
-                  Abstract
-                </a>
-
+                   aria-controls="romentiWP2026-abstract">Abstract</a>
                 <a class="badge grey waves-effect font-weight-light mr-1"
                    href="https://osf.io/r2jyn/overview"
-                   target="_blank">
-                  Code
-                </a>
-
+                   target="_blank"
+                   rel="noopener noreferrer">Code</a>
               </div>
 
-              <div class="col mt-2 p-0">
-                <div id="romentiWP2026-abstract" class="collapse">
-
-                  <div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
-                   Accurate subnational fertility estimates are crucial for shaping policy decisions across diverse sectors, 
-                    including education, health care, and social welfare. However, these estimates are difficult 
-                    to obtain in small populations, in which data on births classified by maternal and 
-                    paternal ages may be lacking or inadequate. In this paper, we describe a Bayesian 
-                    model tailored to estimate the Total Fertility Rates (TFR) for both men and women at a 
-                    subnational level. The model relies on population counts from age-sex pyramids and 
-                    jointly models mortality and fertility patterns while accounting for uncertainty and 
-                    spatiotemporal dependencies. Testing the model with simulated data that mimic 
-                    Australian regions, as well as with real data from US counties, Mexican states and 
-                    Nigerian regions, demonstrates its ability to generate reasonable TFR estimates. 
-                    The estimates produced have straightforward applications to the study of subregional 
-                    reproductive disparities, and the proposed modeling framework can be extended to 
-                    investigate subnational fertility patterns across other countries with limited or 
-                    fragmented birth data. 
-
-                  </div>
-
+              <div id="romentiWP2026-abstract" class="collapse publication-abstract">
+                <div class="abstract card card-body font-weight-light p-3">
+                  Accurate subnational fertility estimates are crucial for shaping policy decisions across diverse sectors,
+                  including education, health care, and social welfare. However, these estimates are difficult
+                  to obtain in small populations, in which data on births classified by maternal and
+                  paternal ages may be lacking or inadequate. In this paper, we describe a Bayesian
+                  model tailored to estimate the Total Fertility Rates (TFR) for both men and women at a
+                  subnational level. The model relies on population counts from age-sex pyramids and
+                  jointly models mortality and fertility patterns while accounting for uncertainty and
+                  spatiotemporal dependencies. Testing the model with simulated data that mimic
+                  Australian regions, as well as with real data from US counties, Mexican states and
+                  Nigerian regions, demonstrates its ability to generate reasonable TFR estimates.
+                  The estimates produced have straightforward applications to the study of subregional
+                  reproductive disparities, and the proposed modeling framework can be extended to
+                  investigate subnational fertility patterns across other countries with limited or
+                  fragmented birth data.
                 </div>
               </div>
-
             </div>
-          </div>
+          </li>
+        </ol>
+      </div>
+    </section>
 
+    <section class="publication-section" aria-labelledby="research-articles-heading">
+      <h1 id="research-articles-heading">Research Articles</h1>
+
+      <div class="publication-year-group">
+        <div class="publication-year">
+          <h3 class="bibliography-year">2026</h3>
         </div>
-      </li>
 
-    </ol>
+        <ol class="bibliography publication-list">
+          <li class="publication-item">
+            <div class="publication-badge abbr">
+              <a class="badge font-weight-bold red darken-4 align-middle"
+                 href="https://doi.org/10.1177/00491241231207914"
+                 target="_blank"
+                 rel="noopener noreferrer">SMR</a>
+            </div>
+
+            <div id="omentismr2026" class="publication-body">
+              <h5 class="title">
+                Bayesian Indirect Estimation of Historical Fertility in Europe and US Using Online Genealogical Data
+              </h5>
+
+              <div class="author">
+                <a href="https://romenti.github.io/" target="_blank" rel="noopener noreferrer"><em>Riccardo Omenti</em></a>,
+                Monica Alexander, and Nicola Barban.
+              </div>
+
+              <p class="periodical font-italic">
+                Sociological Methods &amp; Research.
+                <a href="https://doi.org/10.1177/00491241261463559" target="_blank" rel="noopener noreferrer">DOI</a>.
+              </p>
+
+              <div class="publication-actions">
+                <a class="badge grey waves-effect font-weight-light mr-1"
+                   data-toggle="collapse"
+                   href="#romentiSMR2026-abstract"
+                   role="button"
+                   aria-expanded="false"
+                   aria-controls="romentiSMR2026-abstract">Abstract</a>
+                <a class="badge grey waves-effect font-weight-light mr-1"
+                   href="https://zenodo.org/records/20423970"
+                   target="_blank"
+                   rel="noopener noreferrer">Code</a>
+              </div>
+
+              <div id="romentiSMR2026-abstract" class="collapse publication-abstract">
+                <div class="abstract card card-body font-weight-light p-3">
+                  A growing number of social scientists use online genealogical data as an alternative digital census of historical populations to study past demographic dynamics. However, the non-representativeness of this data source requires the development of bias-adjusting methods to obtain accurate demographic estimates. We address this challenge by proposing an indirect estimation framework to investigate fertility trends in seven European countries and the United States of America for the historical period 1751–1910, integrating data from the big genealogical database FamiLinx with more conventional data sources. The proposed methods allow for the indirect estimation of the total fertility rate using the number of women aged 15–49 and children under age 5, while accounting for child mortality, age-specific fertility patterns, and biases. Our methodological approaches demonstrate that, when combined with reliable demographic data, online genealogical data can be fruitfully used to examine fertility patterns in countries and periods lacking well-functioning national civil registration systems.
+                </div>
+              </div>
+            </div>
+          </li>
+        </ol>
+      </div>
+
+      <div class="publication-year-group">
+        <div class="publication-year">
+          <h3 class="bibliography-year">2024</h3>
+        </div>
+
+        <ol class="bibliography publication-list">
+          <li class="publication-item">
+            <div class="publication-badge abbr">
+              <a class="badge font-weight-bold red darken-4 align-middle"
+                 href="https://www.demographic-research.org/volumes/vol45/16/default.htm"
+                 target="_blank"
+                 rel="noopener noreferrer">Demog</a>
+            </div>
+
+            <div id="colasurdoDR2024" class="publication-body">
+              <h5 class="title">
+                Using Online Genealogical Data for Demographic Research: An Empirical Examination of the FamiLinx Database
+              </h5>
+
+              <div class="author">
+                <a href="https://romenti.github.io/" target="_blank" rel="noopener noreferrer"><em>Riccardo Omenti</em></a>
+                and Andrea Colasurdo.
+              </div>
+
+              <p class="periodical font-italic">
+                Demographic Research.
+                <a href="https://doi.org/10.4054/DemRes.2024.51.41" target="_blank" rel="noopener noreferrer">DOI</a>.
+              </p>
+
+              <div class="publication-actions">
+                <a class="badge grey waves-effect font-weight-light mr-1"
+                   data-toggle="collapse"
+                   href="#omentidemog2024-abstract"
+                   role="button"
+                   aria-expanded="false"
+                   aria-controls="omentidemog2024-abstract">Abstract</a>
+                <a class="badge grey waves-effect font-weight-light mr-1"
+                   href="https://github.com/romenti/Quality_Online_Genealogies"
+                   target="_blank"
+                   rel="noopener noreferrer">Code</a>
+              </div>
+
+              <div id="omentidemog2024-abstract" class="collapse publication-abstract">
+                <div class="abstract card card-body font-weight-light p-3">
+                  <p><b>Background:</b> Online genealogies are promising data sources for demographic research, but their limitations are understudied. This paper takes a critical approach to evaluating the potential strengths and weaknesses of using online genealogical data for population studies. We focus on the FamiLinx dataset, which contains demographic information and kinship ties across multiple countries and centuries.</p>
+
+                  <p><b>Objective:</b> We propose novel measures to assess the completeness and quality of demographic variables in the FamiLinx data at both the individual and familial level over the 1600–1900 period. Utilizing Sweden as a test country, we investigate how the age–sex distribution and mortality levels of the digital population extracted from FamiLinx diverge from the registered population.</p>
+
+                  <p><b>Methods:</b> We employ descriptive statistics, negative binomial regression modeling, and standard life table techniques for our measures of completeness and quality.</p>
+
+                  <p><b>Results:</b> Missing values and accuracy in demographic information from FamiLinx are selective. When one demographic variable is available, researchers can effectively anticipate the availability of other demographic information. The completeness and quality of demographic variables within kinship networks are markedly higher for individuals with more complete and accurate demographic information. Populations from FamiLinx display lower mortality levels than the registered population, and their representativeness improves toward the end of the nineteenth century.</p>
+
+                  <p><b>Contribution:</b> This study sheds new light on the opportunities and challenges of harnessing online genealogies for demographic research. Although this data source offers much promise, its usability in population studies is dependent on the quality and completeness of its recorded demographic information and their selectivity.</p>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="publication-section" aria-labelledby="reports-heading">
+      <h3 id="reports-heading">Contributed Peer-Reviewed Volumes and Reports</h3>
+    </section>
+
   </div>
-</div>
-  
-
-  <h1>Research Articles</h1>
-
-<div class="row m-0 p-0"
-       style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
-
-    <div class="col-sm-1 mt-2 p-0 pr-1">
-      <h3 class="bibliography-year">2026</h3>
-    </div>
-
-    <div class="col-sm-11 p-0">
-      <ol class="bibliography">
-
-      <li><div class="row m-0 mt-3 p-0">
-             <div class="col-sm-1 p-0 abbr">
-            <a class="badge font-weight-bold red darken-4 align-middle" style="width: 65px;" href="https://doi.org/10.1177/00491241231207914" target="_blank">SMR</a>
-            </div>
-      <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">          
-          <div id="omentismr2026" class="col p-0">
-            </div>
-
-            <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
-              <div class="col p-0">
-
-                <h5 class="title mb-0">
-                  Bayesian Indirect Estimation of Historical Fertility in Europe and US Using Online Genealogical Data
-                </h5>
-
-                <div class="author">
-                  </nobr><a href="https://romenti.github.io/" target="_blank"><nobr><em>Riccardo Omenti</em></nobr>, Monica Alexander, and Nicola Barban.</a>.
-                </div>
-
-                <div>
-                  <p class="periodical font-italic">
-                                  Sociological Methods & Research.<nobr><a href="https://doi.org/10.1177/00491241261463559" target="_blank"> DOI<nobr></nobr></a>.</nobr>
-<div class="col p-0">             
-                <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#song2024jog-abstract" role="button" aria-expanded="false" aria-controls="romentiSMR2026-abstract">Abstract</a>  
-              <a class="badge grey waves-effect font-weight-light mr-1" href="https://zenodo.org/records/20423970" target="_blank">Code</a> 
-      </div>
-          
-            <div class="col mt-2 p-0">
-              <div id="song2024jog-abstract" class="collapse">
-                  <div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
-                    A growing number of social scientists use online genealogical data as an alternative digital census of historical populations to study past demographic dynamics. However, the non-representativeness of this data source requires the development of bias-adjusting methods to obtain accurate demographic estimates. We address this challenge by proposing an indirect estimation framework to investigate fertility trends in seven European countries and the United States of America for the historical period 1751–1910, integrating data from the big genealogical database FamiLinx with more conventional data sources. The proposed methods allow for the indirect estimation of the total fertility rate using the number of women aged 15–49 and children under age 5, while accounting for child mortality, age-specific fertility patterns, and biases. Our methodological approaches demonstrate that, when combined with reliable demographic data, online genealogical data can be fruitfully used to examine fertility patterns in countries and periods lacking well-functioning national civil registration systems.
-                     </div>
-              </div>
-            </div>
-            
-          </div>
-      </div>
-        </div></li>
-    </ol>
-  </div>  
-  
-  </div>    
-
-    
-<div class="row m-0 p-0" style="border-top: 1px solid #ddd; flex-direction: row-reverse;">
-    <div class="col-sm-1 mt-2 p-0 pr-1">
-      <h3 class="bibliography-year">2024</h3>
-    </div>
-  
-<div class="col-sm-11 p-0">
-      <ol class="bibliography">     
-
-      <li><div class="row m-0 mt-3 p-0">
-             <div class="col-sm-1 p-0 abbr">
-            <a class="badge font-weight-bold red darken-4 align-middle" style="width: 65px;" href="https://www.demographic-research.org/volumes/vol45/16/default.htm" target="_blank">Demog</a>
-            </div>
-      <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">          
-          <div id="colasurdoDR2024" class="col p-0">
-            </div>
-
-            <div class="col-sm-11 mt-2 mt-sm-0 p-0 pl-xs-0 pl-sm-4 pr-xs-0 pr-sm-2">
-              <div class="col p-0">
-
-                <h5 class="title mb-0">
-                    Using Online Genealogical Data for Demographic Research: An Empirical Examination of the FamiLinx Database
-                </h5>
-
-                 <div class="author">
-                  </nobr><a href="https://romenti.github.io/" target="_blank"><nobr><em>Riccardo Omenti</em></nobr> and Andrea Colasurdo.</a>.
-                </div>
-                <div>
-                  <p class="periodical font-italic">
-                                  Demographic Research<nobr><a href="10.4054/DemRes.2024.51.41" target="_blank">. DOI<nobr></nobr></a>.</nobr>
-<div class="col p-0">             
-                <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#omentidemog2024-abstract" role="button" aria-expanded="false" aria-controls="omentidemog2024-abstract">Abstract</a>  
-              <a class="badge grey waves-effect font-weight-light mr-1" href="https://github.com/romenti/Quality_Online_Genealogies" target="_blank">Code</a> 
-      </div>
-          
-            <div class="col mt-2 p-0">
-              <div id="omentidemog2024-abstract" class="collapse">
-                  <div class="abstract card card-body font-weight-light mr-0 mr-sm-3 p-3">
-
-                     <p>
-        <b>Background:</b>
-        Online genealogies are promising data sources for demographic research,
-        but their limitations are understudied. This paper takes a critical
-        approach to evaluating the potential strengths and weaknesses of using
-        online genealogical data for population studies. We focus on the
-        FamiLinx dataset, which contains demographic information and kinship
-        ties across multiple countries and centuries.
-      </p>
-
-      <p>
-        <b>Objective:</b>
-        We propose novel measures to assess the completeness and quality of
-        demographic variables in the FamiLinx data at both the individual and
-        familial level over the 1600–1900 period. Utilizing Sweden as a test
-        country, we investigate how the age–sex distribution and mortality
-        levels of the digital population extracted from FamiLinx diverge from
-        the registered population.
-      </p>
-
-      <p>
-        <b>Methods:</b>
-        We employ descriptive statistics, negative binomial regression
-        modeling, and standard life table techniques for our measures of
-        completeness and quality.
-      </p>
-
-      <p>
-        <b>Results:</b>
-        Missing values and accuracy in demographic information from FamiLinx
-        are selective. When one demographic variable is available, researchers
-        can effectively anticipate the availability of other demographic
-        information. The completeness and quality of demographic variables
-        within kinship networks are markedly higher for individuals with more
-        complete and accurate demographic information. Populations from
-        FamiLinx display lower mortality levels than the registered population,
-        and their representativeness improves toward the end of the nineteenth
-        century.
-      </p>
-
-      <p>
-        <b>Contribution:</b>
-        This study sheds new light on the opportunities and challenges of
-        harnessing online genealogies for demographic research. Although this
-        data source offers much promise, its usability in population studies is
-        dependent on the quality and completeness of its recorded demographic
-        information and their selectivity.
-      </p>
-                </div>
-              </div>
-            </div>
-            
-          </div>
-      </div>
-    </div></li>  
-
-<h3>Contributed Peer-Reviewed Volumes and Reports</h3>
-        
-        
-
-
-</div>
-  
 
   <!-- Footer -->
   <footer>
